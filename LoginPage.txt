@@ -1,3 +1,7 @@
 Hi loginPage....
 This contains URL, Username and Pwd..
+URL - Flipkart
+Username - abc123
+pwd - abc@123
 By Megha1
+
